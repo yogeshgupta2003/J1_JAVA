@@ -15,7 +15,7 @@
 # 📸 Screenshort
 
  <p align="center">
-    <img src="/bootstrap_text/Images/logo.png">
+    <img src="/bootstrap_text/Images/Product.png">
     <img src="bootstrap_text/Images/Product.png">
 </p>
 
