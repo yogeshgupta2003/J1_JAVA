@@ -16,6 +16,7 @@
 
  <p align="center">
     <img src="Images/Product.png">
+    <img src="Images/Product.png">
 </p>
 
 - Contact
