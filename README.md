@@ -3,7 +3,7 @@
 ### SUMMARY
 
 <p align="center">
-    <img src="/logo.png" wirth="45%" height="50%">
+    <img src="/logo.png" width="45%" hight="50%">
 </p>
 
 # 🛠️ Technology
@@ -15,8 +15,8 @@
 # 📸 Screenshort
 
  <p align="center">
-    <img src="/bootstrap_text/Images/Product.png" wirth="45%" height="50%">
-    <img src="bootstrap_text/Images/Product.png" wirth="45%" height="50%">
+    <img src="/bootstrap_text/Images/Product.png" width="45%" hight="50%">
+    <img src="bootstrap_text/Images/Product.png" width="45%" hight="50%">
 </p>
 
 - Contact
