@@ -15,7 +15,7 @@
 # 📸 Screenshort
 
  <p align="center">
-    <img src="/bootstrap_text/Images/Product.png" width="45%" hight="50%">
+    <img src="/bootstrap_text/Images/Product.png" width="45%" hight="6git0%">
     <img src="bootstrap_text/Images/Product.png" width="45%" hight="50%">
 </p>
 
